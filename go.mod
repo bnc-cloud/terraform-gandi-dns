@@ -1,4 +1,4 @@
-module github.com/bnc-cloud/terraform-provider-gandi
+module github.com/bnc-cloud/terraform-gandi-dns
 
 require (
 	cloud.google.com/go v0.49.0 // indirect

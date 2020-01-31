@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 	"github.com/hashicorp/terraform-plugin-sdk/terraform"
-	"github.com/bnc-cloud/terraform-provider-gandi/gandi"
+	"github.com/bnc-cloud/terraform-gandi-dns/gandi"
 )
 
 func main() {
